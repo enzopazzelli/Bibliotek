@@ -1,12 +1,29 @@
-:root {
-    font-family: Montserrat;
-    line-height: 1.5;
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Montserrat;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  font-weight: 600;
+}
+ul {
+  list-style: none;
+  padding: 0;
+} 
+:root{
+  background-color: lightgrey;
+}
+
+/* :root {
+    
+    
     font-weight: 400;
   
     color-scheme: light dark;
     color: rgba(255, 255, 255, 0.87);
     font-synthesis: none;
-    text-rendering: optimizeLegibility;
+    
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;
@@ -23,8 +40,8 @@
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
-  }
- 
+  } */
+/*  
   button {
     border-radius: 8px;
     border: 1px solid transparent;
@@ -47,4 +64,4 @@
   ul {
     list-style: none;
     padding: 0;
-  }
+  } */

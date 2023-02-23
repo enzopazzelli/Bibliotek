@@ -18,7 +18,7 @@ const Products = ({ products }) => {
                         <div className="book-container" key={product.id}>
                             <img src={product.imagen} alt="Nombre del libro" className="book-img" />
                             <div className="contenedorSinTitulo">
-                                <h6 className="book-title">{product.nombre}</h6>
+                                <h5 className="book-title">{product.nombre}</h5>
                                 <span className="book-price">${product.precio}</span>
 
                                 <button className="book-add" style={{ backgroundColor: isProductInCart ? 'rgb(201, 106, 106)' : 'rgb(82, 170, 85)' }} onClick={() => {

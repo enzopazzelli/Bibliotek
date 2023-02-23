@@ -5,15 +5,14 @@ const Contacto = () => {
   return (
     <div className='contact'>
 
-      <h2>Contacto</h2>    
-      <form action="mailto:enzopazzelli1@gmail.com" method="post" encType="text/plain">
-        <label htmlFor="name">Nombre</label>
-        <input type="text" name="name" placeholder='Nombre' required /><br />
-        <label htmlFor="email">Correo electrónico:</label>
-        <input type="email" name="email" id="email" placeholder='tucorreo@mail.com' required /><br />
-        <label htmlFor="mensaje">Mensaje:</label>
-        <textarea name="mensaje" id="mensaje" cols="10" rows="5" placeholder='Escribí un mensaje para nosotros'></textarea><br />
-        <input type="submit" value="Enviar" />
+      <h2>Contacto</h2>
+      <form id="contactUs" method="post" action="#">
+      
+
+        <input type="text" name="name" id="name" required="required" className="form" placeholder="Nombre" />
+        <input type="email" name="mail" id="mail" required="required" className="form" placeholder="Email" />
+        <textarea name="message" id="message" className="form textArea" placeholder="Mensaje"></textarea>
+        <button type="submit" id="submit" name="submit" className="formBtn semibold">Enviar</button>
       </form>
     </div>
   )

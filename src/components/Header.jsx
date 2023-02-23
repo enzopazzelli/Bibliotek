@@ -14,7 +14,7 @@ const Header = () => {
         <header>
             <nav className="nav-bar">
                 <label className="book-nav" htmlFor={bookNavId}>
-                <i class="fa-regular fa-filter"></i>
+                Filtros
                 </label>
                 <input id={bookNavId} type='checkbox' hidden />
                 <Filters />

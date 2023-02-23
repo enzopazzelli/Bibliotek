@@ -4,10 +4,18 @@ header {
     width: 100%;
     background-color: rgb(17, 17, 17);
     color: white;
-    
-
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
+.nav-bar{
+  width: 100%;
+}
+.book-nav:hover{
+  cursor: pointer;
+}
 
 /******* FILTER LABELS ***********/
 .filters { 
@@ -21,9 +29,9 @@ header {
     padding: 32px;
     position: fixed;
     left: 0px;
-    top: 95px;
+    top: 75px;
     width: 200px;
-    background-color: rgba(17, 17, 17, 0.781);
+    background-color: rgba(17, 17, 17, 0.953);
 
   }
 /* **************** */
@@ -77,6 +85,7 @@ h1 {
     margin: 5px;
   }
   .cart footer {
+    background-color: rgba(17, 17, 17, 0);
     display: flex;
     gap: 8px;
     justify-content: center;

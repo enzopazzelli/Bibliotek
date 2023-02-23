@@ -10,6 +10,7 @@ import Contacto from './components/Contacto'
 
 
 
+
 function App() {
  
   const { filters, filterProducts } = useFilters();
@@ -19,6 +20,7 @@ function App() {
   return (
     <CartProvider>
       <Header />
+      
       <Products products={filteredProducts} />
        <Contacto/>
       <Footer /> 
