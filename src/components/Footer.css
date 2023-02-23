@@ -1,0 +1,31 @@
+footer{
+  background-color: rgba(17, 17, 17);
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  flex-direction: column;
+}
+
+footer span {
+
+  margin: 10px;
+}
+
+/* 
+form {
+    width: 80%;
+}
+input{
+  width: 50%;
+}
+form 
+label, textarea{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+} */
+
+
+
+  
+ 

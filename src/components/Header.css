@@ -1,0 +1,135 @@
+
+header {
+    display: block;
+    width: 100%;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    
+
+}
+
+
+/******* FILTER LABELS ***********/
+.filters { 
+    display: none;
+  
+}
+.book-nav ~ input:checked ~ .filters {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    position: fixed;
+    left: 0px;
+    top: 95px;
+    width: 200px;
+    background-color: rgba(17, 17, 17, 0.781);
+
+  }
+/* **************** */
+
+.nav-bar {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    width: fit-content;
+}
+
+.carro:hover,
+.menu:hover,
+h1:hover {
+    color: rgb(231, 240, 67);
+}
+
+.carro,
+.menu,
+h1 {
+    color: white;
+    background: none;
+    border: none;
+    font-size: 30px;
+    padding: 0 20px;
+    cursor: pointer;
+    display: block;
+}
+/* ****** CART LABELS ********** */
+
+.cart {
+    background: rgb(17, 17, 17);
+    display: none;
+    
+  }
+  
+  .cart img {
+    aspect-ratio: 16/9;
+    width: 100%;
+  }
+  
+  .cart li {
+    border-bottom: 1px solid #444;
+    padding-bottom: 16px;
+  }
+  .cart button{
+    margin: 5px;
+  }
+  .cart footer {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .cart footer button {
+    padding: 8px;
+  }
+  
+  .cart-button {
+    align-items: center;
+    background: rgb(17, 17, 17);
+    border-radius: 9999px;
+    cursor: pointer;
+    display: flex;
+    height: 32px;
+    justify-content: center;
+    padding: 4px;
+    
+    transition: all .3s ease;
+    width: 32px;
+    z-index: 9999;
+  }
+  
+  .cart-button:hover {
+    scale: 1.1;
+    background: rgb(220, 226, 91);
+    color: black;
+  }
+  
+  .cart-button ~ input:checked ~ .cart {
+    height: 600px;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 95px;
+    width: 700px;
+    align-items: center;
+    background-color: rgba(17, 17, 17, 0.942);
+    
+  }
+  .cart h5{
+    font-size: larger;
+  }
+  .cart img {
+    height: 200px;
+    width: 150px;
+    margin: 1%;
+  }
+
+/* **************** */
+/* **************** */
+/* **************** */
+/* **************** */

@@ -1,0 +1,258 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "cantidad": 1,
+            "precio": 1200,
+            "nombre": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "genero": "Realismo mágico",
+            "imagen": "https://s26162.pcdn.co/wp-content/uploads/2018/02/arton2684.jpg",
+            "descripcion": "La historia de la familia Buendía en un pueblo imaginario de América Latina."
+        },
+        {
+            "id": 2,
+            "cantidad": 1,
+            "precio": 950,
+            "nombre": "1984",
+            "autor": "George Orwell",
+            "genero": "Ciencia ficción",
+            "imagen": "https://groundedcuriosity.com/wp-content/uploads/2020/09/1984-cover.jpg",
+            "descripcion": "Una distopía que presenta un mundo donde el gobierno tiene control total."
+        },
+        {
+            "id": 3,
+            "cantidad": 1,
+            "precio": 1500,
+            "nombre": "El gran Gatsby",
+            "autor": "F. Scott Fitzgerald",
+            "genero": "Novela",
+            "imagen": "https://i.pinimg.com/736x/b3/1d/65/b31d65513c1d1ad32e20941bf20f1a92.jpg",
+            "descripcion": "La vida de Jay Gatsby, un magnate millonario, y su amor por Daisy Buchanan."
+        },
+        {
+            "id": 4,
+            "cantidad": 1,
+            "precio": 850,
+            "nombre": "Matar a un ruiseñor",
+            "autor": "Harper Lee",
+            "genero": "Novela",
+            "imagen": "https://m.media-amazon.com/images/I/510Zc3a5YgL._SX313_BO1,204,203,200_.jpg",
+            "descripcion": "Un abogado defiende a un hombre negro acusado de violar a una mujer blanca."
+        },
+        {
+            "id": 5,
+            "cantidad": 1,
+            "precio": 1250,
+            "nombre": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "genero": "Novela",
+            "imagen": "https://covers.openlibrary.org/b/id/9518771-L.jpg",
+            "descripcion": "Las aventuras de un caballero obsesionado con las novelas de caballería."
+        },
+        {
+            "id": 6,
+            "cantidad": 1,
+            "precio": 750,
+            "nombre": "Orgullo y prejuicio",
+            "autor": "Jane Austen",
+            "genero": "Novela",
+            "imagen": "https://globalbookclub.s3.amazonaws.com/resources/5248/orgullo_y_prejuicio/cover.jpg",
+            "descripcion": "La historia de la familia Bennet y su búsqueda de maridos para sus hijas."
+        },
+        {
+            "id": 7,
+            "cantidad": 1,
+            "precio": 1400,
+            "nombre": "Crimen y castigo",
+            "autor": "Fiódor Dostoyevski",
+            "genero": "Novela",
+            "imagen": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/6254541d8ae4df16d4e69bc8_6034d7d1f3e0f54529b2b1a1_Crimen-y-castigo-fiodor-dostoyevski-editorial-alma.jpeg",
+            "descripcion": "La historia de Raskólnikov, un estudiante que comete un asesinato por dinero."
+        },
+        {
+            "id": 8,
+            "cantidad": 1,
+            "precio": 650,
+            "nombre": "El guardián entre el centeno",
+            "autor": "J.D. Salinger",
+            "genero": "Novela",
+            "imagen": "https://ih1.redbubble.net/image.892107649.9256/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+            "descripcion": "La historia de Holden Caulfield, un adolescente que abandona su escuela y busca su identidad."
+        },
+        {
+            "id": 9,
+            "cantidad": 1,
+            "precio": 1800,
+            "nombre": "Ulises",
+            "autor": "James Joyce",
+            "genero": "Novela",
+            "imagen": "https://i.pinimg.com/originals/79/af/e3/79afe3735b33ab896d917c257f25c125.jpg",
+            "descripcion": "La vidade Leopold Bloom y otros personajes en un solo día en Dublín, Irlanda."
+        },
+        {
+            "id": 10,
+            "cantidad": 1,
+            "precio": 950,
+            "nombre": "La naranja mecánica",
+            "autor": "Anthony Burgess",
+            "genero": "Ciencia ficción",
+            "imagen": "https://i.pinimg.com/originals/b4/73/6f/b4736f842961fba6defb115900269edf.jpg",
+            "descripcion": "La historia de Alex, un joven líder de una pandilla que se somete a un tratamiento experimental para corregir su comportamiento violento."
+        },
+        {
+            "id": 11,
+            "cantidad": 1,
+            "precio": 1200,
+            "nombre": "El nombre de la rosa",
+            "autor": "Umberto Eco",
+            "genero": "Misterio",
+            "imagen": "https://m.media-amazon.com/images/I/41-jYhXO0BL._SX301_BO1,204,203,200_.jpg",
+            "descripcion": "Un monje franciscano investiga una serie de asesinatos en una abadía en el siglo XIV."
+        },
+        {
+            "id": 12,
+            "cantidad": 1,
+            "precio": 850,
+            "nombre": "Las aventuras de Tom Sawyer",
+            "autor": "Mark Twain",
+            "genero": "Novela",
+            "imagen": "https://c8.alamy.com/compes/kretkh/las-aventuras-de-tom-sawyer-kretkh.jpg",
+            "descripcion": "La historia de Tom Sawyer y su amigo Huckleberry Finn en una pequeña ciudad del Mississippi."
+        },
+        {
+            "id": 13,
+            "cantidad": 1,
+            "precio": 1500,
+            "nombre": "Cumbres borrascosas",
+            "autor": "Emily Brontë",
+            "genero": "Novela romántica",
+            "imagen": "https://quelibroleo.com/images/libros/libro-1520499004.jpg",
+            "descripcion": "La historia de amor entre Heathcliff y Catherine en las sombrías colinas de Yorkshire."
+        },
+        {
+            "id": 14,
+            "cantidad": 1,
+            "precio": 1250,
+            "nombre": "El retrato de Dorian Gray",
+            "autor": "Oscar Wilde",
+            "genero": "Novela",
+            "imagen": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647078.jpg",
+            "descripcion": "La historia de un joven que vende su alma para mantener su belleza juvenil mientras su retrato envejece."
+        },
+        {
+            "id": 15,
+            "cantidad": 1,
+            "precio": 750,
+            "nombre": "Las uvas de la ira",
+            "autor": "John Steinbeck",
+            "genero": "Novela",
+            "imagen": "https://m.media-amazon.com/images/I/817Wo8uTbmL.jpg",
+            "descripcion": "La historia de la familia Joad, campesinos que emigran a California durante la Gran Depresión."
+        },
+        {
+            "id": 16,
+            "cantidad": 1,
+            "precio": 1400,
+            "nombre": "Madame Bovary",
+            "autor": "Gustave Flaubert",
+            "genero": "Novela",
+            "imagen": "https://almabooks.com/wp-content/uploads/2016/10/madame-bovary_3_4-1.jpg",
+            "descripcion": "La historia de Emma Bovary, quien busca la felicidad fuera de su matrimonio en la Francia del siglo XIX."
+        },
+        {
+            "id": 17,
+            "cantidad": 1,
+            "precio": 650,
+            "nombre": "El extranjero",
+            "autor": "Albert Camus",
+            "genero": "Novela",
+            "imagen": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5227/9781522718222.jpg",
+            "descripcion": "La historia de Meursault, quien mata a un hombre y enfrenta un juicio absurdo."
+        },
+        {
+            "id": 18,
+            "cantidad": 1,
+            "precio": 1800,
+            "nombre": "La montaña mágica",
+            "autor": "Thomas Mann",
+            "genero": "Novela",
+            "imagen": "https://m.media-amazon.com/images/I/81nwbMf2KXL._AC_UF1000,1000_QL80_.jpg",
+            "descripcion": "La historia de un joven que visita un sanatorio en los Alpes suizos y reflexiona sobre la vida, la muerte y la enfermedad."
+        },
+        {
+            "id": 19,
+            "cantidad": 1,
+            "precio": 950,
+            "nombre": "La cabaña del tío Tom",
+            "autor": "Harriet Beecher Stowe",
+            "genero": "Novela",
+            "imagen": "https://pictures.abebooks.com/isbn/9781937482992-us.jpg",
+            "descripcion": "La historia de Tom, un esclavo en Kentucky, y su lucha por la libertad y la justicia."
+        },
+        {
+            "id": 20,
+            "cantidad": 1,
+            "precio": 1200,
+            "nombre": "1984",
+            "autor": "George Orwell",
+            "genero": "Ciencia ficción",
+            "imagen": "https://images.booksense.com/images/935/524/9780451524935.jpg",
+            "descripcion": "La historia de Winston Smith en un futuro distópico en el que el gobierno controla todos los aspectos de la vida de las personas."
+        },
+        {
+            "id": 21,
+            "cantidad": 1,
+            "precio": 750,
+            "nombre": "La conjura de los necios",
+            "autor": "John Kennedy Toole",
+            "genero": "Humor",
+            "imagen": "https://www.anagrama-ed.es/uploads/media/portadas/0001/15/eec84be551eddec97d987585b2e54afb000c9c96.jpeg",
+            "descripcion": "La historia de la vida de Ignatius J. Reilly, un perezoso intelectual que vive con su madre en Nueva Orleans."
+        },
+        {
+            "id": 22,
+            "cantidad": 1,
+            "precio": 1100,
+            "nombre": "El amor en los tiempos del cólera",
+            "autor": "Gabriel García Márquez",
+            "genero": "Romance",
+            "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/b0/3e/b03e98118b9e2cf5b94bb0548bfa59c5.jpg",
+            "descripcion": "La historia del amor de Florentino Ariza por Fermina Daza, que dura más de medio siglo."
+        },
+        {
+            "id": 23,
+            "cantidad": 1,
+            "precio": 800,
+            "nombre": "La casa de los espíritus",
+            "autor": "Isabel Allende",
+            "genero": "Realismo mágico",
+            "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/bf/b2/bfb2294d8912bbd5179452432aaceb15.jpg",
+            "descripcion": "La historia de tres generaciones de la familia Trueba en un país latinoamericano ficticio."
+        },
+        {
+            "id": 24,
+            "cantidad": 1,
+            "precio": 1300,
+            "nombre": "Los miserables",
+            "autor": "Victor Hugo",
+            "genero": "Novela",
+            "imagen": "https://www.elejandria.com/covers/Los_Miserables-Hugo_Victor-lg.png",
+            "descripcion": "La historia de Jean Valjean, un ex-convicto que busca redimirse y de Javert, el inspector que lo persigue a lo largo de su vida."
+        },
+        {
+            "id": 25,
+            "cantidad": 1,
+            "precio": 1200,
+            "nombre": "El señor de los anillos",
+            "autor": "J.R.R. Tolkien",
+            "genero": "Fantasía",
+            "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/66/1a/661a3760157941a94cb8db3f5a9d5060.jpg",
+            "descripcion": "La historia de la lucha de un hobbit y sus aliados para destruir un anillo mágico que puede controlar el mundo."
+            }
+
+    ],
+    "total": 20,
+    "skip": 0,
+    "limit": 5
+}

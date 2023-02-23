@@ -1,0 +1,25 @@
+.contact{
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+.contact input[type="submit"]{
+    width: 300px;
+    padding: 5px;
+}
+.contact input{
+    padding: 10px;
+    font-size: medium;
+    margin: 10px;
+    width: 300px;
+}
+.contact textarea{
+    font-size: larger;
+    margin: 10px;
+    min-width: 300px;
+}
+
+  
